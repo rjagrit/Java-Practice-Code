@@ -5,3 +5,4 @@ public class Hello
         System.out.println("Hi");
     }
 }
+//in this way you can print anything in Java
